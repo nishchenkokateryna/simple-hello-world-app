@@ -2,3 +2,8 @@
 /shelf/
 /workspace.xml
 .idea
+vcs.xml
+simple-hello-world-app.iml
+runConfigurations.xml
+modules.xml
+misc.xml
